@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarique2003
 - 👀 I’m interested in ...web development and machine learning
-- 🌱 I’m currently learning ...c++ stl
+- 🌱 I’m currently learning ...react and ml
 - 💞️ I’m looking to collaborate on ... some great projects
 - 📫 How to reach me ... ping me on my mentioned email
 
